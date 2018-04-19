@@ -1,2 +1,0 @@
-def seu_token():
-    return"NDE2NjU2MDE4NTY3NzI1MDU2.DXSrTA.ZG2d4_5Mu1JlvkRHT40j6h5JcKQ"
